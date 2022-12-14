@@ -1,7 +1,14 @@
 ---
+import BlogPosts from "../components/BlogPosts.astro";
+import CategoriesTab from "../components/CategoriesTab.astro";
+import FeaturedPosts from "../components/FeaturedPosts.astro";
 import Layout from "../layouts/Layout.astro";
 ---
 
 <Layout>
-  <div class="h-screen"></div>
+  <div>
+    <FeaturedPosts />
+    <CategoriesTab />
+    <BlogPosts />
+  </div>
 </Layout>
