@@ -11,14 +11,14 @@ const posts = await Astro.glob("../posts/*.md");
           class="flex flex-col-reverse md:flex-row justify-center md:space-x-5 p-5 m-3 shadow-lg bg-[#F5F4EB] rounded-md hover:shadow-lg"
         >
           <div class="flex flex-col py-2 space-y-2">
-            <h3 class="font-sans text-xl font-bold text-[##100E09] hover:underline">
+            <h3 class="font-openSans text-xl font-bold text-[##100E09] hover:underline">
               {post.frontmatter.title}
             </h3>
-            <p class="font-sans text-sm font-bold text-slate-600">
+            <p class="font-openSans text-sm font-bold text-slate-600">
               Written by <strong>{post.frontmatter.author}</strong> on{" "}
               {new Date(post.frontmatter.date).toLocaleDateString()}
             </p>
-            <p class="max-w-sm font-sans text-md text-[#100E09] line-clamp-2">
+            <p class="max-w-sm font-openSans text-md text-[#100E09] line-clamp-2">
               {post.frontmatter.excerpt}
             </p>
           </div>
