@@ -7,6 +7,14 @@ date: 2022-11-13
 author: James Abraham
 ---
 
-Morbi interdum mi at nisl aliquam, eu tristique diam efficitur. Etiam at placerat elit. Phasellus a risus pretium, vulputate lectus ut, eleifend ex. Proin facilisis odio a magna sodales rutrum. Fusce venenatis mi ipsum, nec sagittis augue dapibus nec. Proin vel enim varius, sollicitudin mauris id, viverra tortor. Phasellus feugiat, ex commodo malesuada congue, elit ipsum lacinia velit, et fermentum nunc nunc id quam. Proin at quam vitae dui lobortis congue eu elementum quam. Ut mattis, magna vitae condimentum dignissim, ligula nisl fermentum lectus, sed lobortis magna lectus a enim. Quisque vitae purus rutrum, euismod urna auctor, egestas sem. Aenean dictum, nisl vel imperdiet mattis, urna justo varius massa, sed sollicitudin dui massa non eros. Sed mi elit, sagittis sit amet turpis in, faucibus consectetur justo. Nam non tincidunt tortor, vel pellentesque tellus. Integer posuere nisi vel porta malesuada. Etiam scelerisque quam arcu, quis lacinia magna accumsan ac.
+Let me start here with a story about deep, obsessive curiosity.
 
-In dignissim interdum diam, eget iaculis libero venenatis vel. Aliquam tristique finibus pellentesque. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Vivamus viverra mollis consectetur. Donec eleifend sem sit amet vulputate fermentum. Nulla tincidunt, libero in efficitur euismod, lorem augue tristique mi, a imperdiet nunc ipsum eu ligula. Cras aliquam dictum est eu bibendum. Quisque viverra mauris augue, sit amet sollicitudin quam bibendum non. Morbi aliquam placerat vestibulum. Nulla facilisi. In in dolor id ex molestie luctus non a tortor. Sed lacus sem, ornare dignissim tellus ut, dictum sodales erat. Nulla facilisi. Maecenas mollis lacus in dolor interdum ultrices. Curabitur dignissim orci dolor, id imperdiet libero vulputate eget.
+Back in 1964, the microbiologist Thomas Brock visited Yellowstone National Park to do some sightseeing. He was on a long car ride, and wanted to break up the monotony.
+
+While peering into the hot springs, he noticed a curious blue-green tinge. When he asked a park ranger about it, he was told it was algae. That surprised Brock: Those pools are so hot that some of them reach a boiling temperature. At the time, scientists didn’t know of many lifeforms that could readily thrive such scalding environments.
+
+But Brock couldn’t stop wondering about what exactly was going on in those boiling pools. He was dying to know: What was alive down there? How was it surviving?
+
+So he spent the next six years revisiting Yellowstone and taking samples from pools, geysers, and vents. And along with his colleague Hudson Freeze, he discovered a species — Thermus aquaticus — that was previously unknown.
+
+Essentially, they’d documented the category now known as “extremophiles”. As they wrote in a 1967 paper that hit the scientific world like an earthquake, “It is thus impossible to conclude that there is any ‘upper temperature of life.’”

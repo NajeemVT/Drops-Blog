@@ -1,5 +1,5 @@
 ---
-title: Deep Leanring
+title: Deep Learning
 slug: deeplearning-article
 excerpt: Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam voluptate, quae, quod, voluptates quibusdam voluptatibus quidem voluptatum quos quia quas nesciunt. Quisquam, quae. Quisquam, quae. Quisquam, quae. Quisquam, quae.
 thumbnail: https://coderbible.io/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1671209684490%2Fa3LEkYQ84.jpeg%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75
@@ -7,6 +7,14 @@ date: 2022-11-13
 author: James Abraham
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur quis porttitor mauris. Sed quis nulla malesuada, imperdiet ipsum eleifend, pharetra lacus. Maecenas vehicula tincidunt lorem sed elementum. Vestibulum luctus consectetur risus at aliquet. Donec ac sapien malesuada, congue neque ultrices, fringilla velit. Suspendisse potenti. Maecenas ac elit sem. Suspendisse malesuada ligula eu efficitur vulputate. Mauris tincidunt urna a elit ultricies porttitor. Donec vestibulum nibh euismod lectus rutrum sollicitudin. Aliquam luctus urna volutpat erat malesuada sodales. Etiam dapibus interdum est, sit amet aliquet turpis accumsan non. Sed tincidunt felis ut magna tincidunt, sit amet mollis neque ultricies. Duis mollis, libero sit amet dictum faucibus, mauris sapien volutpat est, sit amet molestie enim eros et lorem.
+Let me start here with a story about deep, obsessive curiosity.
 
-In dignissim interdum diam, eget iaculis libero venenatis vel. Aliquam tristique finibus pellentesque. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Vivamus viverra mollis consectetur. Donec eleifend sem sit amet vulputate fermentum. Nulla tincidunt, libero in efficitur euismod, lorem augue tristique mi, a imperdiet nunc ipsum eu ligula. Cras aliquam dictum est eu bibendum. Quisque viverra mauris augue, sit amet sollicitudin quam bibendum non. Morbi aliquam placerat vestibulum. Nulla facilisi. In in dolor id ex molestie luctus non a tortor. Sed lacus sem, ornare dignissim tellus ut, dictum sodales erat. Nulla facilisi. Maecenas mollis lacus in dolor interdum ultrices. Curabitur dignissim orci dolor, id imperdiet libero vulputate eget.
+Back in 1964, the microbiologist Thomas Brock visited Yellowstone National Park to do some sightseeing. He was on a long car ride, and wanted to break up the monotony.
+
+While peering into the hot springs, he noticed a curious blue-green tinge. When he asked a park ranger about it, he was told it was algae. That surprised Brock: Those pools are so hot that some of them reach a boiling temperature. At the time, scientists didn’t know of many lifeforms that could readily thrive such scalding environments.
+
+But Brock couldn’t stop wondering about what exactly was going on in those boiling pools. He was dying to know: What was alive down there? How was it surviving?
+
+So he spent the next six years revisiting Yellowstone and taking samples from pools, geysers, and vents. And along with his colleague Hudson Freeze, he discovered a species — Thermus aquaticus — that was previously unknown.
+
+Essentially, they’d documented the category now known as “extremophiles”. As they wrote in a 1967 paper that hit the scientific world like an earthquake, “It is thus impossible to conclude that there is any ‘upper temperature of life.’”
